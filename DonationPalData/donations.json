@@ -1,0 +1,92 @@
+[
+    {
+        "_id": {
+            "$oid": "63ebe5a14b490ecac4b7fd8d"
+        },
+        "campaign_id": {
+            "$oid": "63d2a455b06aae132e00ee6c"
+        },
+        "user_id": {
+            "$oid": "63d29f6cb06aae132e00ee52"
+        },
+        "message": "Glad to contribute to such a worthy cause.",
+        "amount": 950,
+        "donation_date": {
+            "$date": {
+                "$numberLong": "1671329576000"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63ebe5985514d5c7d5dfed6a"
+        },
+        "campaign_id": {
+            "$oid": "63d2a455b06aae132e00ee6e"
+        },
+        "user_id": {
+            "$oid": "63d29f6cb06aae132e00ee61"
+        },
+        "message": "I made a donation, let's make a positive impact on the world.",
+        "amount": 380,
+        "donation_date": {
+            "$date": {
+                "$numberLong": "1674019948000"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63ebe59143fc5b4af6bd9e3a"
+        },
+        "campaign_id": {
+            "$oid": "63d2a455b06aae132e00ee7c"
+        },
+        "user_id": {
+            "$oid": "63d29f6cb06aae132e00ee44"
+        },
+        "message": "Happy to support your organization with a donation.",
+        "amount": 20,
+        "donation_date": {
+            "$date": {
+                "$numberLong": "1674491490000"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63ebe588734803f8a3ce82a4"
+        },
+        "campaign_id": {
+            "$oid": "63d2a455b06aae132e00ee7f"
+        },
+        "user_id": {
+            "$oid": "63d29f6cb06aae132e00ee39"
+        },
+        "message": "Just donated, keep up the good work!",
+        "amount": 730,
+        "donation_date": {
+            "$date": {
+                "$numberLong": "1669949782000"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63ebe57a0fc6d314c782865b"
+        },
+        "campaign_id": {
+            "$oid": "63d2a455b06aae132e00ee7a"
+        },
+        "user_id": {
+            "$oid": "63d29f6cb06aae132e00ee46"
+        },
+        "message": "Just donated, every little bit helps!",
+        "amount": 440,
+        "donation_date": {
+            "$date": {
+                "$numberLong": "1671564717000"
+            }
+        }
+    }
+]

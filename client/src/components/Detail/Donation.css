@@ -1,0 +1,18 @@
+.donationWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: none;
+    width: 40%;
+    margin-left: 30px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    border-radius: 20px;
+    border: solid 2px #ee6e7e !important;
+}
+
+.amount {
+    color:#80A4ED;
+    padding: 10px
+}

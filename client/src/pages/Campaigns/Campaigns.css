@@ -1,0 +1,18 @@
+.Campaigns-wrapper {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    margin: 10px 40px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+#heading {
+    margin: 40px;
+    font-size: 50px;
+    font-weight: bold;
+    color: #3E517A;
+}

@@ -1,0 +1,426 @@
+[{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee6c"
+  },
+  "name": "Help a single mother pay for her daughter's medical expenses",
+  "description": "A single mother is struggling to pay for her daughter's medical expenses and needs help covering the cost.",
+  "goal": 34900,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1665806400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1689480000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee6d"
+  },
+  "name": "Support a student's dream of studying abroad",
+  "description": "A student has been accepted to study abroad but needs financial assistance to make it happen.",
+  "goal": 27300,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1668661200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1679025600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee6e"
+  },
+  "name": "Assist a small business owner affected by COVID-19",
+  "description": "A small business owner has been hit hard by the pandemic and needs help to keep their business afloat.",
+  "goal": 3600,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1673931600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1683691200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee6f"
+  },
+  "name": "Fund a community garden project in a low-income neighborhood",
+  "description": "A community organization is working to create a community garden in a low-income neighborhood, but needs funding to get the project off the ground.",
+  "goal": 36000,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1669352400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1680408000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee70"
+  },
+  "name": "Donate towards a family's home renovation after a fire",
+  "description": "A family has lost everything in a house fire and is in need of funds to renovate and rebuild their home.",
+  "goal": 32100,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1673845200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1681963200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee71"
+  },
+  "name": "Help a veteran with unexpected medical costs",
+  "description": "A veteran is in need of financial assistance to cover unexpected medical costs.",
+  "goal": 49300,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1673586000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1688875200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee72"
+  },
+  "name": "Contribute to a non-profit organization's mission",
+  "description": "A non-profit organization is working to make a difference in the community, but needs funding to continue their mission.",
+  "goal": 14100,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1671685200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1678939200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee73"
+  },
+  "name": "Fund a young entrepreneur's startup idea",
+  "description": "A young entrepreneur has a great business idea but needs funding to get it off the ground.",
+  "goal": 49700,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1673067600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1683432000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee74"
+  },
+  "name": "Support a family whose home was destroyed by a natural disaster",
+  "description": "A family has lost their home in a natural disaster and needs help to rebuild.",
+  "goal": 17500,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1668834000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1681185600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee75"
+  },
+  "name": "Help a student pay for college tuition",
+  "description": "A student is struggling to pay for college tuition and needs help to continue their education.",
+  "goal": 19400,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1666238400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1679025600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee76"
+  },
+  "name": "Assist a family with funeral expenses for a loved one",
+  "description": "A family is in need of financial assistance to cover the cost of a loved one's funeral.",
+  "goal": 46000,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1666670400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1687752000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee77"
+  },
+  "name": "Donate towards a community center's renovation",
+  "description": "A community center is in need of funding to renovate and expand its services.",
+  "goal": 23600,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1669870800000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1681531200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee78"
+  },
+  "name": "Help a person living with a chronic illness pay for treatment",
+  "description": "A person living with a chronic illness needs help to pay for necessary treatment.",
+  "goal": 19400,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1669438800000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1681704000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee79"
+  },
+  "name": "Fund a mission trip for a group of volunteers",
+  "description": "A group of volunteers is going on a mission trip and needs funding to cover expenses.",
+  "goal": 21000,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1670475600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1684814400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee7a"
+  },
+  "name": "Support a local animal rescue organization",
+  "description": "A local animal rescue organization is in need of funding to continue their work saving animals in the community.",
+  "goal": 20000,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1669611600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1685073600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee7b"
+  },
+  "name": "Help a musician record their first album",
+  "description": "A musician needs help funding their first album.",
+  "goal": 29500,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1671339600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1684728000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee7c"
+  },
+  "name": "Contribute to a teacher's classroom project",
+  "description": "A teacher is working on a special project for the classroom and needs funding to make it happen.",
+  "goal": 19500,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1671166800000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1685937600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee7d"
+  },
+  "name": "Donate towards a child's therapy costs",
+  "description": "A child is in need of therapy but the family can't afford the cost.",
+  "goal": 10500,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1669438800000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1689393600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee7e"
+  },
+  "name": "Assist a person living with a disability with necessary home modifications",
+  "description": "A person living with a disability needs help to make necessary modifications to their home.",
+  "goal": 29200,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1667361600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1688961600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee7f"
+  },
+  "name": "Fund a research project for a rare disease",
+  "description": "A researcher is working on a study to find a cure for a rare disease, and needs funding to continue their work.",
+  "goal": 24700,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1669611600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1687924800000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee80"
+  },
+  "name": "Support an artist's public art installation",
+  "description": "An artist needs funding to create a public art installation.",
+  "goal": 4500,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1670130000000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1682049600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee81"
+  },
+  "name": "Help a person living with cancer pay for treatment",
+  "description": "A person living with cancer needs help to pay for treatment.",
+  "goal": 31000,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1671512400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1685246400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee82"
+  },
+  "name": "Assist a person who lost their job during the pandemic",
+  "description": "A person who lost their job during the pandemic needs help to make ends meet.",
+  "goal": 15400,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1667102400000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1685592000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee83"
+  },
+  "name": "Build a community garden",
+  "description": "Our neighborhood wants to convert a vacant lot into a community garden. We need funds for supplies and plants to support our volunteers!",
+  "goal": 31500,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1673845200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1687233600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63d2a455b06aae132e00ee84"
+  },
+  "name": "Renovate a senior center rec room",
+  "description": "The senior center in our community has fallen into disrepair. We would like to purchase construction materials and decorations to renovate the rec room for our friends and neighbors!",
+  "goal": 4300,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1670389200000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1679716800000"
+    }
+  }
+}]
