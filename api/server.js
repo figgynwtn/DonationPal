@@ -52,7 +52,7 @@ app.use(limiter);
 
 if (process.env.NODE_ENV === 'production') {
     app.use(cors({
-        origin: "https://sp23-43600-newt-scratch.uc.r.appspot.com"
+        origin: "fascinating-cannoli-de2922.netlify.app"
     }));
 } else {
     app.use(cors());
